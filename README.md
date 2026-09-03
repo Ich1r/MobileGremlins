@@ -10,8 +10,8 @@ Aplicativo mobile informativo, orientado a objetos, sobre o filme **Gremlins (19
 
 ## Sumário da Wiki
 
-1. [Dados do filme](wiki/01-dados-do-filme.md)
-2. [Protótipo](wiki/02-prototipo.md)
-3. [Estrutura dos arquivos JSON](wiki/03-estrutura-json.md)
-4. [Fontes e links oficiais](wiki/04-fontes.md)
+1. [Dados do filme](wiki/dados-do-filme.md)
+2. [Protótipo](wiki/prototipo.md)
+3. [Estrutura dos arquivos JSON](wiki/estrutura-json.md)
+4. [Fontes e links oficiais](wiki/fontes.md)
 
